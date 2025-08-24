@@ -25,7 +25,7 @@ A simple, structured movie review webpage using semantic HTML. Created as part o
 
 ## 🔍 Overview
 
-This static project presents a review of Disney’s _Zootopia_ (2016), including a brief synopsis, cast list, movie rating, and poster image — all built with accessibility and metadata in mind.
+This static project presents a review of Disney’s _Zootopia_ (2016), including a brief synopsis, cast list, movie rating, and poster image which are all built with accessibility and metadata in mind.
 
 This site demonstrates how to combine semantic structure, meaningful metadata, and accessible markup. It simulates a blog-style review layout that could easily be expanded into a full entertainment or film critique site.
 
