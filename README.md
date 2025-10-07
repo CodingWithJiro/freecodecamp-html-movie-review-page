@@ -1,4 +1,4 @@
-# 💻 Movie Review Page
+# Movie Review Page
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/)
@@ -15,15 +15,15 @@
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%201-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-html-movie-review-page&left_text=repo%20views)
 
-## ℹ️ Movie Review: Zootopia (2016)
+## Movie Review: Zootopia (2016)
 
 ![Screenshot of the project](./screenshot.png)
 
-A simple, structured movie review webpage using semantic HTML. Created as part of the [freeCodeCamp.org](https://www.freecodecamp.org/learn/full-stack-developer/) HTML5 free course.
+A simple, structured movie review webpage using semantic HTML. Created as part of the **[freeCodeCamp.org](https://www.freecodecamp.org/learn/full-stack-developer/)** HTML5 free course.
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This static project presents a review of Disney’s _Zootopia_ (2016), including a brief synopsis, cast list, movie rating, and poster image which are all built with accessibility and metadata in mind.
 
@@ -31,7 +31,7 @@ This site demonstrates how to combine semantic structure, meaningful metadata, a
 
 ---
 
-## ✨ Features
+## Features
 
 - Semantic HTML5 structure
 - Open Graph metadata for social sharing
@@ -42,7 +42,7 @@ This site demonstrates how to combine semantic structure, meaningful metadata, a
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - How to write structured movie content using semantic elements
 - The role of Open Graph `<meta>` tags in link previews
@@ -51,7 +51,7 @@ This site demonstrates how to combine semantic structure, meaningful metadata, a
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
 - HTML5
 - Git
@@ -60,23 +60,23 @@ This site demonstrates how to combine semantic structure, meaningful metadata, a
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
 2. Open `index.html` in your browser
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-Or you can check out the 👉 [live website here](https://movie-review-page-fcc-jiro.netlify.app/)
+Or you can check out the **[live website here](https://movie-review-page-fcc-jiro.netlify.app/)**
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 Created by **Elmar Chavez**
 
-🗓️ Month/Year: **April 2025**
+Month/Year: **April 2025**
 
-📚 Journey: **1<sup>st</sup>** month of learning _frontend web development_.
+Journey: **1<sup>st</sup>** month of learning _frontend web development_.
